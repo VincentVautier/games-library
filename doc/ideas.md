@@ -34,11 +34,19 @@ Review :
 
 [] consulter les règles d'un jeu
 
-[] Une bannière à la une qui affiche par ordre de priorité et par défilement :
+[] Une bannière (ou en faire la page accueil/actualité ?) à la une qui affiche par ordre de priorité et par défilement (avec bouton pour supprimer l'issue):
         1. un partie en cours
         2. une campagne en cours
-        3. le jeu non joué le plus ancien par acquisition 
-        4. les jeux aux parties les plus anciennes ordonnés par notes 
+        3. prochaine sortie de jeu topé dans la wishlist si c'est dans le mois (passe en première position si c'est dans la semaine avec priorité au non preordered)
+        4. le jeu dernier jeu de la wishlist sorti mais non possédé
+        5. le jeu non joué le plus ancien par acquisition 
+        6. les jeux aux parties les plus anciennes ordonnés par notes 
+
+Si page d'accueil :  pour ordi : un grand bloc en haut à gauche étendue sur 2/3 de page puis des plus petits blocs égaux ou une taille intermédiaire en dessous pour mieux hiérarchiser et petites cases à droite. Pour mobile : 1 bloc, 2 blocs, 3 blocs en défilement vertical. Possibilité de slide dans les blocs ? Ca fait peut-être trop. Plutôt remplacer par un bouton vers le type d'évènement concerné (parties en cours, sorties, etc.) ?
+
+
+
+
 
 [] un planification des parties ? 
 

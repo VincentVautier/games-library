@@ -4,7 +4,7 @@
 
 [x] Associer les récap O,clock aux items du sprint
 
-[] Création du kanban sur github
+[x] Création du kanban sur github
 
 [] définir les sprints et alimenter des kanban à partir de là
 
@@ -71,7 +71,7 @@
     [] clean code :
             [] DRY
             [] commentaires 
-            [] fonctions documentées
+            [] méthodes documentées
             [] éviter redondances dans la bdd
             [] optimisation SEO => https://kourou.oclock.io/ressources/fiche-recap/search-engine-optimization/
             [] indentation
@@ -104,6 +104,8 @@
 
 []  Sécurier le champ email : voir dans oquiz la fonction validateEmail de validators/emailValidator.js et son exécution dans controllers/user.js. La fonction vient de stackoverflow.com
 
+[] installer express-session et import session from 'express-session' et on le met en app.use dans l'app.js
+
 [] Sécuriser le mdp : 
         [] voir méthode store de oquiz controllers/user.js
         [] hacher le mdp : voir owasp password cheat sheet series + installer et importer node-argon2 de npm => méthode ci-dessus
@@ -118,3 +120,8 @@
 ## Sprint 5 : wishlist
 
 [] Associer les récap O,clock aux items du sprint
+
+
+## Sprint ? : finalisation du projet
+
+[] compléter les informations d'installation dans le README.md
