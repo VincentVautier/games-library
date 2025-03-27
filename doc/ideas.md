@@ -15,16 +15,26 @@
 # Reviews 
 
 ## Modèle pour la TODO
-Review :
-    [] fonctionnalité
+    [] lecture
     [] sécurité
-            [] méthode JOIN 
+            [] méthode JOIN (et pas resolve !)
             [] requêtes préparées
-            [] gitignore
+            [] vérification du gitignore et du .env
+    [] boutons
+    [] champs
+    [] url        
     [] Validator
-    [] DRY
-    [] Prettier
-
+    [] clean code :
+            [] DRY
+            [] commentaires 
+            [] méthodes documentées
+            [] éviter redondances dans la bdd
+            [] optimisation SEO => https://kourou.oclock.io/ressources/fiche-recap/search-engine-optimization/
+            [] indentation
+            [] Prettier
+    [] point-amelioration-feedback.md
+    [] Compléter le kanban
+    
 ## Elements à vérifier à incrémenter dans ce qui précède une fois que c'est ok 
 
 
@@ -92,3 +102,15 @@ Si page d'accueil :  pour ordi : un grand bloc en haut à gauche étendue sur 2/
  - category : links to owned games of the same category
  - mechanism : links to owned games of the same mechanism
  - expansions : owned or not with updating date of information
+
+
+ ## Logo
+
+ ### Styliser les lettres
+ - bois 
+ - meeple
+ - dés
+ - cartes
+
+ ### logo à part
+ - partir d'une kallax
