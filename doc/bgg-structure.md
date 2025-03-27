@@ -23,3 +23,15 @@
 
 - choix des colonnes de la vue liste :
         - title, thumbnail, status, version, private info, date last modified, acquisition date, date added, wishlist comment, rating, plays, comment, average weight
+
+- page jeu : 
+        - première partie : image, titre, note nob de joueurs, durée, age, poilds, noms alternatifs, designers, illustrateurs, editeur, my rating, in collection ?, log play, sleeves
+        - slide d'images
+        - description + awards, liens officiels, statistiques de la communauté
+        - bandeau droite : classification : type, category, mehanism, family, liset des extensions et produits liés
+        - liens vendeurs avec prix
+        - vidéos
+        - reviews
+        - fan also like
+        - forums
+        - PDF rules etc 
