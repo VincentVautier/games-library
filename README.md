@@ -15,9 +15,26 @@ He will be able to create and follow his gaming agenda.
 He will be able to register and its commands and follow them with a notification and an event display on the home page. 
 The application will include the miniature painting as games by storing informations like painting duration and pictures of painting steps. 
 
+The work on the homepage that displays upcoming events is central. The application will stand out from others that already exist through the relevance of what will be offered there. From this page, which will provide clear elements, the user should be able to use the application’s functions intuitively.
+
 The application will be developped in mobil first.
 
+## In summary
 
+The user will be able to :
+    - register himself
+    - create and manage a game collection
+    - create lists including tier lists
+    - create tops 
+    - create and manage a game agenda
+    - store the games (including miniature painting) he made
+    - complete and manage a wihslist
+    - rate games and define their weight
+    - have all necessary informations about a game
+    - consult statistics (personnals and generals)
+    - be alerted about the releases of games he has saved
+    - be alerted about the loans he made
+    - be kept informed about upcoming events.
 
 ## Initializing project
 
