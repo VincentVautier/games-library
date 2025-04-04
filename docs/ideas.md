@@ -74,6 +74,8 @@ Si page d'accueil :  pour ordi : un grand bloc en haut à gauche étendue sur 2/
 
 [] noter le jeu et sa difficulté
 
+[] intégrer la peinture de figurines dans les activités avec les stats (durée, etc) et les photos par étapes
+
 ## Architecture de l'app
 
 [] Reprendre le Oquiz de la saison 11

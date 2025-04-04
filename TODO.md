@@ -6,7 +6,7 @@
 
 [x] Création du kanban sur github
 
-[] définir les sprints et alimenter des kanban à partir de là
+[x] définir les sprints et alimenter des kanban à partir de là
 
 [] Etudier Myludo et BGG pour dégager les fonctionnalités qui l'on veut retrouver dans notre app
 
@@ -51,7 +51,7 @@
 
 [] Intégration minimale pour tester le code => https://kourou.oclock.io/ressources/recap-quotidien/freyja-e01-larchitecte-et-le-decorateur/ et https://kourou.oclock.io/ressources/recap-quotidien/freyja-e02-box-model/ et https://kourou.oclock.io/ressources/recap-quotidien/freyja-e03-layout/ et https://kourou.oclock.io/ressources/recap-quotidien/freyja-e04-positions/ et https://kourou.oclock.io/ressources/fiche-recap/evenements/
 
-[] Route '/' et '/collection' si différente
+[] Route '/' et '/collection' si différente (créer les routeurs)
 
 [] Affichage de l'intégralité de la collection
 
